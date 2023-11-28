@@ -13,7 +13,9 @@
 
   https://www.linkedin.com/feed/update/urn:li:activity:7068901344794800128/
 
-  I am currently collaborating with a software company using tools such as React, Redux Toolkit, React Bootstrap, React-Hook-Form, Tailwind CSS, Material UI.
+  I am currently collaborating on part-time regime with a software company using tools such as React, Redux Toolkit, React Bootstrap, React-Hook-Form, Tailwind CSS, Material UI.
+
+  Concomitantly I have been learning Angular and C#.
 
   If my proﬁle matches your needs or simple wish to connect, don’t hesitate to contact me so we can get to know each other.
 
